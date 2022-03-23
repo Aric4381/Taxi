@@ -1,0 +1,6 @@
+c:\users\aricy\documents\visual studio 2015\Projects\Taxi\Taxi\bin\Debug\Taxi.exe.config
+c:\users\aricy\documents\visual studio 2015\Projects\Taxi\Taxi\bin\Debug\Taxi.exe
+c:\users\aricy\documents\visual studio 2015\Projects\Taxi\Taxi\bin\Debug\Taxi.pdb
+c:\users\aricy\documents\visual studio 2015\Projects\Taxi\Taxi\obj\Debug\Taxi.csprojResolveAssemblyReference.cache
+c:\users\aricy\documents\visual studio 2015\Projects\Taxi\Taxi\obj\Debug\Taxi.exe
+c:\users\aricy\documents\visual studio 2015\Projects\Taxi\Taxi\obj\Debug\Taxi.pdb
